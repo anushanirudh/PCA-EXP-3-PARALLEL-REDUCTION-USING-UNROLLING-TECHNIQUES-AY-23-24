@@ -382,5 +382,4 @@ int main(int argc, char **argv)
 ![Screenshot 2024-04-05 132641](https://github.com/2005Mukesh/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24/assets/138849308/227f9011-3214-4f40-92f7-a98c1f34a35b)
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that  1048576 has executed with less elapsed time than 1048576 with blocks 2.73 ms,116.58 ms.
-
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that gpu Unrolling16 has executed with less elapsed time than gpu Unrolling8 with blocks 2048,512.
